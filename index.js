@@ -1,2 +1,1 @@
-const a = 56;
-const b = 20;
+const c = 40;
